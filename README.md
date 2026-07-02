@@ -47,6 +47,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [Reedsy Book Editor](https://reedsy.com/write-a-book) – Free online book formatting tool.
 - [Atticus](https://atticus.io/) – Writing and formatting tool for eBooks and print.
 - [Calibre](https://calibre-ebook.com/) – Open-source eBook management and conversion.
+- [PDF 2 EPUB](https://toolkit.bot/pdf2epub) – Free online converter that transforms PDFs into reflowable EPUB3 files with WCAG 2.2 AA accessibility compliance, OCR support, and no signup required.
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview) – Long-form writing and organization tool.
 
 ## Cover Design
