@@ -81,6 +81,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [ProWritingAid](https://prowritingaid.com/) – Writing coach and editor.
 - [Hemingway Editor](https://hemingwayapp.com/) – App to make your writing bold and clear.
 - [NovelPad](https://novelpad.co/) – Cloud-based novel writing platform.
+- [Show Me My Book](https://showmemybook.com) – A canon bible for novelists: every character, place, moment and thread, cross-linked and cited to the page it came from.
 
 ## Legal & Business
 
