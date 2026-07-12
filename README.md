@@ -18,6 +18,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [eBook Creation & Formatting](#ebook-creation--formatting)
 - [Cover Design](#cover-design)
 - [Marketing & Promotion](#marketing--promotion)
+- [Author Websites](#author-websites)
 - [Distribution & Aggregators](#distribution--aggregators)
 - [Audiobooks](#audiobooks)
 - [Writing Tools](#writing-tools)
@@ -62,6 +63,12 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [BookFunnel](https://bookfunnel.com/) – Deliver ARCs, grow your newsletter, and promote books.
 - [Booksprout](https://booksprout.co/) – ARC and review management platform.
 - [Goodreads](https://www.goodreads.com/author/program) – Author profile and community engagement.
+
+## Author Websites
+
+- [Pub Site](https://pub-site.com/) – Website builder designed for authors and their books.
+- [Tertulia for Authors](https://authors.tertulia.com/) – Author website builder that generates a site from your ISBN.
+- [Zenpage](https://zenpage.io/) – Free website builder for authors, with blog, newsletter signup, and direct ebook sales.
 
 ## Distribution & Aggregators
 
