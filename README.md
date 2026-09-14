@@ -82,6 +82,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [ProWritingAid](https://prowritingaid.com/) – Writing coach and editor.
 - [Hemingway Editor](https://hemingwayapp.com/) – App to make your writing bold and clear.
 - [NovelPad](https://novelpad.co/) – Cloud-based novel writing platform.
+- [MazeDIY](https://mazediy.com/) – Free browser tool that turns photos and images into printable mazes and activity pages, with PDF/PNG/SVG export and solution keys for puzzle and activity books.
 
 ## Legal & Business
 
