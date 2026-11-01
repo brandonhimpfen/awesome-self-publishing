@@ -49,6 +49,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [Atticus](https://atticus.io/) – Writing and formatting tool for eBooks and print.
 - [Calibre](https://calibre-ebook.com/) – Open-source eBook management and conversion.
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview) – Long-form writing and organization tool.
+- [Torcul](https://torcul.com/) – Formats Word or Markdown manuscripts into print-ready PDF interiors, EPUBs and covers.
 
 ## Cover Design
 
