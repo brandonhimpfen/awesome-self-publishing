@@ -55,6 +55,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [Canva](https://www.canva.com/) – Easy-to-use online design tool with book cover templates.
 - [BookBrush](https://bookbrush.com/) – Cover creator and marketing graphics for authors.
 - [99designs](https://99designs.com/book-cover-design) – Custom book cover contests and designers.
+- [Book Spine Width Calculator](https://orbita-media.github.io/book-spine-calculator/) – Free, open-source calculator for paperback spine width, full cover size with bleed and ISBN-13 barcodes (SVG).
 
 ## Marketing & Promotion
 
