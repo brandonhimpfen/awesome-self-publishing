@@ -36,6 +36,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [Lulu](https://www.lulu.com/) – Publish and print books, calendars, and more.
 - [Apple Books for Authors](https://authors.apple.com/) – Publish directly to Apple Books.
 - [Google Play Books Partner Center](https://play.google.com/books/publish/) – Publish eBooks for Android users.
+- [Quibble](https://www.goquibble.com/) – Publish serialized fiction with lore and art on web and mobile.
 
 ## Print-on-Demand Services
 
